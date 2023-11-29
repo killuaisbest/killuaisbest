@@ -2,7 +2,7 @@
 <h1 align="center">~ 💖 𝓑𝓮𝓶 𝓥𝓲𝓷𝓭𝓸𝓼 𝓟𝓮𝓼𝓼𝓸𝓪𝓵 💖 ~</h1>
 <br>
 <div align="center">
-<img src="https://tenor.com/pt-BR/view/killua-gif-18302301">
+<img src="https://media.giphy.com/media/DY1KSjEuVMarPIzfkq/giphy.gif">
 </div>
 <br>
 <div>
