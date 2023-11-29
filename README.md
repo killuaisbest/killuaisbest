@@ -28,8 +28,7 @@
 <div>
 <h2 align="left">            ~ 📇 𝓒𝓸𝓷𝓱𝓮𝓬𝓲𝓶𝓮𝓷𝓽𝓸𝓼 📇 ~</h2>
 <p>
-<img src="https://media.giphy.com/media/YmZOBDYBcmWK4/giphy.gif
- " align="right">
+<img src="https://media.giphy.com/media/YmZOBDYBcmWK4/giphy.gif" align="right">
 </div>
 <div>
 <br>
