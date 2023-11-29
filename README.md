@@ -65,6 +65,6 @@ chess.com-lkapp23
            
   <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=LXrdKnowkill&&show_icons=true&theme=radical"/>
+<img  src="https://tenor.com/pt-BR/view/kimetsu-no-yaiba-demon-slayer-zenitsu-agatsuma-zenitsu-gif-14677284"/>
   </a>
   </p>
