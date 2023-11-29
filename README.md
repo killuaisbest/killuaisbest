@@ -28,7 +28,7 @@
 <div>
 <h2 align="left">            ~ 📇 𝓒𝓸𝓷𝓱𝓮𝓬𝓲𝓶𝓮𝓷𝓽𝓸𝓼 📇 ~</h2>
 <p>
-<img src="https://c.tenor.com/g6gB7IfcS6EAAAAC/padoru-pet.gif" align="right">
+<img src="https://media.giphy.com/media/DY1KSjEuVMarPIzfkq/giphy.gif" align="right">
 </div>
 <div>
 <br>
