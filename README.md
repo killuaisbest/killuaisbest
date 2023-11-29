@@ -53,7 +53,7 @@ chess.com-lkapp23
 <div>
 <h2 align="center">💖 ~ 𝓞𝓫𝓻𝓲𝓰𝓪𝓭𝓸 𝓹𝓸𝓻 𝓵𝓮𝓻𝓮𝓶 ~ 💖</h2>
 <div align="center">
-<img src="https://media.giphy.com/media/VEzYdo930nTiTuVeMU/giphy.gif">
+<img src="https://giphy.com/clips/zenitsu-6ZQx4ZCqEA99BYTDJB">
 </div>
 <hr>
 </div>
